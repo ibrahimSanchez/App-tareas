@@ -1,4 +1,4 @@
-# Webpack Starter
+# App-Tareas Webpack
 
 Esta es una app de tareas utilizando webpack.
 
